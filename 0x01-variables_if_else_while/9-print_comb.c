@@ -1,12 +1,14 @@
 #include <stdio.h>
 /**
- * main - Entry point
- *   
- * Return: Always 0 (Success/correct)
- */
+ *  main - Entry point
+ * 
+ *  Return: Always 0 (Success/correct)
+ */ 
 int main(void)
+
 {
 	int number;
+
 
 	for (number = 48; number <= 57; number++)
 	{
@@ -22,6 +24,5 @@ int main(void)
 	}
 
 	putchar('\n');
-
 	return (0);
 }
