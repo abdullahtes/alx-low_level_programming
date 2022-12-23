@@ -2,10 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * print_array - that print array elements 
  * @a: an array of integers
  * @n: the number of elements to swap
- * @a:print_array that print array elements
  *
  * Return: nothing.
  */
